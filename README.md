@@ -1,6 +1,6 @@
-# myapp
+# App Layout
 
-A new Flutter project.
+Atividade unidade 2.
 
 ## Getting Started
 
